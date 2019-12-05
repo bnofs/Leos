@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "daca818fab67bb7fcabb27c92934a2f8",
+    "revision": "d8485648947f6a05e68c0b296b4f1870",
     "url": "/Leos/index.html"
   },
   {
-    "revision": "576b5622d4f971d3d9b3",
+    "revision": "4624d7ba2696a0329853",
     "url": "/Leos/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Leos/static/js/2.99277f52.chunk.js"
   },
   {
-    "revision": "576b5622d4f971d3d9b3",
-    "url": "/Leos/static/js/main.1c3923e0.chunk.js"
+    "revision": "4624d7ba2696a0329853",
+    "url": "/Leos/static/js/main.fdae0b2b.chunk.js"
   },
   {
     "revision": "809be8294b50697f2524",
     "url": "/Leos/static/js/runtime-main.2f511180.js"
   },
   {
-    "revision": "25bf045ca257e971124f3997d89f321c",
-    "url": "/Leos/static/media/logo.25bf045c.svg"
+    "revision": "2633e5ba9aa68b47883dc494e79a3e5d",
+    "url": "/Leos/static/media/logo.2633e5ba.jpg"
   }
 ]);
