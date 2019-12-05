@@ -38,7 +38,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": ".",
+  "start_url": "/https://bnofs.github.io/Leos/",
   "display": "standalone",
   "theme_color": "#001830",
   "background_color": "#001830"
