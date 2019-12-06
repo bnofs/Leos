@@ -3,17 +3,17 @@
   "name": "Leo's Campground",
   "icons": [
     {
-      "src": "apple-icon.png",
+      "src": "images/icons/apple-icon.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "apple-icon.png",
+      "src": "images/icons/apple-icon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "apple-icon.png",
+      "src": "images/icons/apple-icon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
