@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Leos/static/css/main.d2e5d1e6.chunk.css",
+    "main.css": "/Leos/static/css/main.bcf26df2.chunk.css",
     "main.js": "/Leos/static/js/main.c8cfe5af.chunk.js",
     "main.js.map": "/Leos/static/js/main.c8cfe5af.chunk.js.map",
     "runtime-main.js": "/Leos/static/js/runtime-main.2f511180.js",
@@ -9,17 +9,17 @@
     "static/js/2.90535764.chunk.js": "/Leos/static/js/2.90535764.chunk.js",
     "static/js/2.90535764.chunk.js.map": "/Leos/static/js/2.90535764.chunk.js.map",
     "index.html": "/Leos/index.html",
-    "precache-manifest.1970ccf757c7373c8f3086bb2eedbfaf.js": "/Leos/precache-manifest.1970ccf757c7373c8f3086bb2eedbfaf.js",
+    "precache-manifest.5a7567f168c44c9b8991cd0c73331db7.js": "/Leos/precache-manifest.5a7567f168c44c9b8991cd0c73331db7.js",
     "service-worker.js": "/Leos/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/Leos/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.d2e5d1e6.chunk.css.map": "/Leos/static/css/main.d2e5d1e6.chunk.css.map",
+    "static/css/main.bcf26df2.chunk.css.map": "/Leos/static/css/main.bcf26df2.chunk.css.map",
     "static/media/App.css": "/Leos/static/media/background-image-1.4f71d0b0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2f511180.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.90535764.chunk.js",
-    "static/css/main.d2e5d1e6.chunk.css",
+    "static/css/main.bcf26df2.chunk.css",
     "static/js/main.c8cfe5af.chunk.js"
   ]
 }
