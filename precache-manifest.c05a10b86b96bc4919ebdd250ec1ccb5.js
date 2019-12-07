@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f65cb98cb73ed9e3457879c041691152",
+    "revision": "4101d0101c324e436b2a845abfb0a3c4",
     "url": "/Leos/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Leos/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "afe1fa9527e4282ed5b0",
+    "revision": "a399a86eaff719ebc696",
     "url": "/Leos/static/css/main.bed8a5e1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Leos/static/js/2.59985a1f.chunk.js"
   },
   {
-    "revision": "afe1fa9527e4282ed5b0",
-    "url": "/Leos/static/js/main.c50a68ec.chunk.js"
+    "revision": "a399a86eaff719ebc696",
+    "url": "/Leos/static/js/main.7a3e2877.chunk.js"
   },
   {
     "revision": "809be8294b50697f2524",
