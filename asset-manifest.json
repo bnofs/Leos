@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Leos/static/css/main.76d8a80f.chunk.css",
-    "main.js": "/Leos/static/js/main.7db604cc.chunk.js",
-    "main.js.map": "/Leos/static/js/main.7db604cc.chunk.js.map",
+    "main.css": "/Leos/static/css/main.9dde7d2f.chunk.css",
+    "main.js": "/Leos/static/js/main.b0c31c51.chunk.js",
+    "main.js.map": "/Leos/static/js/main.b0c31c51.chunk.js.map",
     "runtime-main.js": "/Leos/static/js/runtime-main.2f511180.js",
     "runtime-main.js.map": "/Leos/static/js/runtime-main.2f511180.js.map",
     "static/css/2.17e5ed98.chunk.css": "/Leos/static/css/2.17e5ed98.chunk.css",
     "static/js/2.014951dc.chunk.js": "/Leos/static/js/2.014951dc.chunk.js",
     "static/js/2.014951dc.chunk.js.map": "/Leos/static/js/2.014951dc.chunk.js.map",
     "index.html": "/Leos/index.html",
-    "precache-manifest.0c98cc81c58858cd8935895ce663bb07.js": "/Leos/precache-manifest.0c98cc81c58858cd8935895ce663bb07.js",
+    "precache-manifest.6f0981c857200c32fe17df8beb6ca823.js": "/Leos/precache-manifest.6f0981c857200c32fe17df8beb6ca823.js",
     "service-worker.js": "/Leos/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/Leos/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.76d8a80f.chunk.css.map": "/Leos/static/css/main.76d8a80f.chunk.css.map",
+    "static/css/main.9dde7d2f.chunk.css.map": "/Leos/static/css/main.9dde7d2f.chunk.css.map",
     "static/media/App.css": "/Leos/static/media/background-image.4f71d0b0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2f511180.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.014951dc.chunk.js",
-    "static/css/main.76d8a80f.chunk.css",
-    "static/js/main.7db604cc.chunk.js"
+    "static/css/main.9dde7d2f.chunk.css",
+    "static/js/main.b0c31c51.chunk.js"
   ]
 }
