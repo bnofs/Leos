@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84e8c69ee155086cc09ae7cc4f38d252",
+    "revision": "db313afc5feca37d4bc371e3031f2d5f",
     "url": "/Leos/index.html"
   },
   {
-    "revision": "3e78b52134ebd609d087",
+    "revision": "d0091ecfe8876dceeb86",
     "url": "/Leos/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "d27327062dfc64f66363",
-    "url": "/Leos/static/css/main.180c0621.chunk.css"
+    "revision": "72a7317b8acb0e0399ad",
+    "url": "/Leos/static/css/main.59001bf6.chunk.css"
   },
   {
-    "revision": "3e78b52134ebd609d087",
-    "url": "/Leos/static/js/2.807ee826.chunk.js"
+    "revision": "d0091ecfe8876dceeb86",
+    "url": "/Leos/static/js/2.49e84198.chunk.js"
   },
   {
-    "revision": "d27327062dfc64f66363",
-    "url": "/Leos/static/js/main.22c36a10.chunk.js"
+    "revision": "72a7317b8acb0e0399ad",
+    "url": "/Leos/static/js/main.5e04ca91.chunk.js"
   },
   {
     "revision": "809be8294b50697f2524",
